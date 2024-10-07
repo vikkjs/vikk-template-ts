@@ -1,1 +1,1 @@
-# Vite + TypeScript + Vikk
+# Vikk + Vite + TypeScript
