@@ -21,7 +21,7 @@
         "noUnusedParameters": true,
         "noFallthroughCasesInSwitch": true,
         /* vikk */
-        "jsx": "react-jsx",
+        "jsx": "preserve",
         "jsxImportSource": "vikk",
         "types": [
             "vikk"
